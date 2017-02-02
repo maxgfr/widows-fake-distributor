@@ -1,0 +1,18 @@
+c:\users\jemme\documents\visual studio 2015\Projects\Monnayeur\Monnayeur\bin\Debug\Monnayeur.exe.config
+C:\Users\jemme\Documents\Visual Studio 2015\Projects\Monnayeur\Monnayeur\bin\Debug\Monnayeur.exe
+C:\Users\jemme\Documents\Visual Studio 2015\Projects\Monnayeur\Monnayeur\bin\Debug\Monnayeur.pdb
+C:\Users\jemme\Documents\Visual Studio 2015\Projects\Monnayeur\Monnayeur\obj\Debug\Monnayeur.csprojResolveAssemblyReference.cache
+C:\Users\jemme\Documents\Visual Studio 2015\Projects\Monnayeur\Monnayeur\obj\Debug\Monnayeur.exe
+C:\Users\jemme\Documents\Visual Studio 2015\Projects\Monnayeur\Monnayeur\obj\Debug\Monnayeur.pdb
+C:\Users\jemme\Desktop\COO\Mes Projets\Monnayeur\Monnayeur\bin\Debug\Monnayeur.exe.config
+C:\Users\jemme\Desktop\COO\Mes Projets\Monnayeur\Monnayeur\obj\Debug\Monnayeur.exe
+C:\Users\jemme\Desktop\COO\Mes Projets\Monnayeur\Monnayeur\obj\Debug\Monnayeur.pdb
+C:\Users\jemme\Desktop\COO\Mes Projets\Monnayeur\Monnayeur\bin\Debug\Monnayeur.exe
+C:\Users\jemme\Desktop\COO\Mes Projets\Monnayeur\Monnayeur\bin\Debug\Monnayeur.pdb
+C:\Users\jemme\Desktop\COO\Mes Projets\Monnayeur\Monnayeur\obj\Debug\Monnayeur.csprojResolveAssemblyReference.cache
+C:\Users\maxime\Documents\Visual Studio 2015\Projects\Monnayeur\Monnayeur\bin\Debug\Monnayeur.exe.config
+C:\Users\maxime\Documents\Visual Studio 2015\Projects\Monnayeur\Monnayeur\bin\Debug\Monnayeur.exe
+C:\Users\maxime\Documents\Visual Studio 2015\Projects\Monnayeur\Monnayeur\bin\Debug\Monnayeur.pdb
+C:\Users\maxime\Documents\Visual Studio 2015\Projects\Monnayeur\Monnayeur\obj\Debug\Monnayeur.csprojResolveAssemblyReference.cache
+C:\Users\maxime\Documents\Visual Studio 2015\Projects\Monnayeur\Monnayeur\obj\Debug\Monnayeur.exe
+C:\Users\maxime\Documents\Visual Studio 2015\Projects\Monnayeur\Monnayeur\obj\Debug\Monnayeur.pdb
